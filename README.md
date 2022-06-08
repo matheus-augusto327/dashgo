@@ -13,5 +13,5 @@ Administrative dashboard using React, Next.js and Chakra UI.
   <img src="https://user-images.githubusercontent.com/62486215/172734736-86aced92-5948-47bd-8ce5-fda860babf57.png" width="626px">
 
   <h2>Dashboard - Mobile</h2>
-  <img src="https://user-images.githubusercontent.com/62486215/172734740-bcc74e77-1f7e-425e-b469-0063a835af68.png" width="332px">
+  <img src="https://user-images.githubusercontent.com/62486215/172734740-bcc74e77-1f7e-425e-b469-0063a835af68.png" width="240px">
 </div>
